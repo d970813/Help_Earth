@@ -1,0 +1,14 @@
+h1{
+    color: rgba(35, 68, 2, 0.641);
+}
+h2{
+    color: rgb(19, 150, 89);
+}
+p{
+    color: darkgreen;
+    size: 10px;
+}
+button{
+    color: rgb(5, 91, 61);
+    background-color: rgb(16, 222, 23);
+}
